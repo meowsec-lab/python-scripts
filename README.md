@@ -20,7 +20,7 @@ As an experienced professional, I am not just looking to make code "work." Hacke
 
 ## Connect With Me
 
-I am actively looking for remote Security Engineer and SOC Automation roles where I can apply my security background and growing Python toolkit.
+I am actively looking for roles where I can apply my security experience.
 
 *   **LinkedIn:** https://www.linkedin.com/in/ashraful004/ 
 

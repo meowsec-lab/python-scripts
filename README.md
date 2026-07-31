@@ -1,4 +1,4 @@
-# InfoSec Python Foundations
+# Python Scripts
 
 > A structured log of my journey mastering Python fundamentals, algorithmic thinking, and data structures—specifically tailored as a launchpad for Security Automation and DevSecOps.
 

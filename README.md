@@ -10,7 +10,9 @@ In my daily work, I see how manual SOC processes and repetitive defensive tasks 
 
 This repository is my public commitment to that learning path. It is a record of solving problems, optimizing code, and building the cognitive framework needed to write scalable security scripts.
 
-*“You can’t automate what you don’t fundamentally understand. Building the foundation first.”*
+> You can’t automate what you don’t fundamentally understand. Building the foundation first.
+
+---
 
 ## Why HackerRank?
 

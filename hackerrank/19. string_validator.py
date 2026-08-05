@@ -1,0 +1,22 @@
+if __name__ == '__main__':
+    s = input()
+    alnum, alpha, digit, lower, upper = False, False, False, False, False
+
+  # Run the loop to check multiple but individual condition
+    for c in s:
+        if c.isalnum():
+            alnum = True
+        if c.isalpha():
+            alpha = True
+        if c.isdigit():
+            digit = True
+        if c.islower():
+            lower = True
+        if c.isupper():
+            upper = True
+        
+    print(alnum)
+    print(alpha)
+    print(digit)
+    print(lower)
+    print(upper)
